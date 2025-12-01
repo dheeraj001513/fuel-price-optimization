@@ -1,0 +1,19 @@
+{
+  "input": {
+    "date": "2025-12-02",
+    "price": 1.85,
+    "cost": 1.52,
+    "comp1_price": 1.82,
+    "comp2_price": 1.88,
+    "comp3_price": 1.79
+  },
+  "recommendation": {
+    "optimal_price": 2.999994307884263,
+    "recommended_price": 1.9425000000000001,
+    "predicted_volume": 3362.141357421875,
+    "expected_profit": 1420.5047235107425,
+    "expected_revenue": 6530.9595867919925,
+    "profit_margin": 27.796052631578956,
+    "price_change_pct": 5.000000000000001
+  }
+}
